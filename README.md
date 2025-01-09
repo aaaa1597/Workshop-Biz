@@ -6,3 +6,10 @@ Codestep
 
 web鍛
 <https://webtan.tech/category/training/coding/>
+
+# フリーランスエージェントについて
+<https://resemom.jp/manabi/freelance-agent-recommend/>
+
+<[https://resemom.jp/manabi/freelance-agent-recommend/](https://exidea.co.jp/blog/job/freelance/agent-comparison/)>
+
+<[https://resemom.jp/manabi/freelance-agent-recommend/](https://jobs.qiita.com/freelanceagent-recommend/)>
