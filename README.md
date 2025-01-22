@@ -8,11 +8,11 @@
       - [【コーディング例あり】模写コーディングのやり方【手順を解説】](https://code-jump.com/coding-step/)
 
 $$('body').map(e=>[e.style.border="1px solid orange"]);</br>
-$$('header').map(e=>[e.style.border="1px solid greenyellow"]);</br>
+$$('header').map(e=>[e.style.border="1px solid lime"]);</br>
 $$('main').map(e=>[e.style.border="1px solid magenta"]);</br>
 $$('footer').map(e=>[e.style.border="1px solid blue"]);</br>
 $$('div').map(e=>[e.style.border="1px dashed red"]);</br>
-$$('span').map(e=>[e.style.border="1px dashed green"]);</br>
+$$('span').map(e=>[e.style.border="1px dashed cyan"]);</br>
 $$('section').map(e=>[e.style.border="5px dashed yellow"]);</br>
 
 - Codestep
