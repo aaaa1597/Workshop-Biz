@@ -7,6 +7,14 @@
       - [初心者向け！HTML/CSSのコーディング手順をイチからしっかりと。](https://www.webcreatorbox.com/blog/html-css-coding-steps)
       - [【コーディング例あり】模写コーディングのやり方【手順を解説】](https://code-jump.com/coding-step/)
 
+$$('body').map(e=>[e.style.border="1px solid orange"]);
+$$('header').map(e=>[e.style.border="1px solid greenyellow"]);
+$$('main').map(e=>[e.style.border="1px solid magenta"]);
+$$('footer').map(e=>[e.style.border="1px solid blue"]);
+$$('div').map(e=>[e.style.border="1px dashed red"]);
+$$('span').map(e=>[e.style.border="1px dashed green"]);
+$$('section').map(e=>[e.style.border="5px dashed yellow"]);
+
 - Codestep
 <https://code-jump.com/coding-recommend/>
 
